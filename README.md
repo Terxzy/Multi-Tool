@@ -92,7 +92,7 @@ C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
 ## **🧠 License**
 MIT License — free to use, share, and modify.
 
-💬 Need Help?
+## **💬 Need Help?**
 
 If you have questions, need help, or want to suggest a feature, feel free to join the support Discord server:
 
