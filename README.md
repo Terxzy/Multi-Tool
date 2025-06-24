@@ -54,7 +54,7 @@ Because this script:
 
 some antivirus or Windows Defender software may falsely flag it as suspicious.
 
-    **🧠 Don't worry – the script is 100% safe. The full source code will be made publicly available in the future.**
+    🧠 Don't worry – the script is 100% safe. The full source code will be made publicly available in the future.
 
 To avoid issues:
 
@@ -82,8 +82,11 @@ Add a screenshot here if you want – a CMD window with the menu shown.
 To make the favorite apps menu work, make sure these paths exist or adjust them in the script:
 
 C:\Program Files\Notepad++\notepad++.exe
+
 C:\Users\%USERNAME%\AppData\Local\Discord\Update.exe
+
 C:\Program Files (x86)\Steam\Steam.exe
+
 C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
 
 ## **🧠 License**
