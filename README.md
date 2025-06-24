@@ -1,7 +1,7 @@
 
 # 📦 Terxzy Windows Multitool
 
-A powerful and user-friendly Windows command-line multitool built entirely in a .bat script. This tool provides a wide range of system utilities — from network diagnostics and system info to app launching and basic network scanning.
+A powerful and user-friendly Windows command-line multitool built entirely in a .exe application. This tool provides a wide range of system utilities — from network diagnostics and system info to app launching and basic network scanning.
 
     ✅ No installation required.
     💻 Just run the .exe file and get instant access to dozens of functions.
@@ -73,9 +73,6 @@ To avoid issues:
 ## **📄 Log File**
 
 All actions performed in the tool are logged to a simple log.txt file for reference.
-🚀 Example Screenshot (optional)
-
-Add a screenshot here if you want – a CMD window with the menu shown.
 
 ## **📂 Favorite App Paths**
 
