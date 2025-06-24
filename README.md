@@ -1,12 +1,12 @@
 
-## 📦 Terxzy Windows Multitool
+# 📦 Terxzy Windows Multitool
 
 A powerful and user-friendly Windows command-line multitool built entirely in a .bat script. This tool provides a wide range of system utilities — from network diagnostics and system info to app launching and basic network scanning.
 
     ✅ No installation required.
-    💻 Just run the .bat file and get instant access to dozens of functions.
+    💻 Just run the .exe file and get instant access to dozens of functions.
 
-# **✨ Features**
+## **✨ Features**
 
     ✅ Show your IP address
 
@@ -32,17 +32,17 @@ A powerful and user-friendly Windows command-line multitool built entirely in a 
 
     ✅ Quick launcher for favorite apps (Discord, Notepad++, Steam, Minecraft Launcher)
 
-🛠 How to Use
+## **🛠 How to Use**
 
     Download or clone this repository
 
-    Run the multitool.bat file by double-clicking it
+    Run the multitool.exe file by double-clicking it
 
     Use the numbered menu to select a tool
 
     ℹ️ You can run this tool from any folder — no installation or setup needed.
 
-⚠️ Antivirus Warning
+## **⚠️ Antivirus Warning**
 
 Because this script:
 
@@ -54,8 +54,7 @@ Because this script:
 
 some antivirus or Windows Defender software may falsely flag it as suspicious.
 
-    🧠 Don't worry – the script is 100% safe and open-source.
-    You can open and review the .bat file in any text editor before running it.
+    **🧠 Don't worry – the script is 100% safe. The full source code will be made publicly available in the future.**
 
 To avoid issues:
 
@@ -63,7 +62,7 @@ To avoid issues:
 
     Right-click → Run as Administrator if required for some features (e.g., user management)
 
-🧑‍💻 Requirements
+## **🧑‍💻 Requirements**
 
     Windows 7, 8, 10, 11
 
@@ -71,13 +70,14 @@ To avoid issues:
 
     Optional: Admin rights for certain features
 
-📄 Log File
+## **📄 Log File**
 
 All actions performed in the tool are logged to a simple log.txt file for reference.
 🚀 Example Screenshot (optional)
 
 Add a screenshot here if you want – a CMD window with the menu shown.
-📂 Favorite App Paths
+
+## **📂 Favorite App Paths**
 
 To make the favorite apps menu work, make sure these paths exist or adjust them in the script:
 
@@ -86,9 +86,11 @@ C:\Users\%USERNAME%\AppData\Local\Discord\Update.exe
 C:\Program Files (x86)\Steam\Steam.exe
 C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
 
-🤝 Contributions
-
-Feel free to submit pull requests, suggest new features, or fork your own version!
-🧠 License
-
+## **🧠 License**
 MIT License — free to use, share, and modify.
+
+💬 Need Help?
+
+If you have questions, need help, or want to suggest a feature, feel free to join the support Discord server:
+
+👉 Join Here: https://discord.gg/enhdk9HyGb
