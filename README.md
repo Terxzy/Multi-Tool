@@ -6,7 +6,7 @@ A powerful and user-friendly Windows command-line multitool built entirely in a 
     ✅ No installation required.
     💻 Just run the .bat file and get instant access to dozens of functions.
 
-**✨ Features**
+# **✨ Features**
 
     ✅ Show your IP address
 
